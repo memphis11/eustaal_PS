@@ -1,16 +1,11 @@
 # eustaal_PS
 EUStaal Installer
 
-
-PowerShell Script Installer
-
-Dieses Repository enthält ein PowerShell-Skript zur automatisierten Einrichtung.
-
 ---
 
 ### 🔹 Schritt 1: Skript herunterladen
 
-![Download PowerShell Script](https://raw.githubusercontent.com/dein-benutzernamer…“ zum Herunterladen.
+[Download Script] (https://github.com/memphis11/eustaal_PS)“ zum Herunterladen.
 
 ---
 
