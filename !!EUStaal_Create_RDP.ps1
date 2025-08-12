@@ -110,6 +110,11 @@ foreach ($eintrag in $eintraege) {
 #
 
 # Info for User
+Write-Host "-------------------------------------------------------"
+Write-Host "-------------------------------------------------------"
+Write-Host "-------------------------------------------------------"
+Write-Host "-------------------------------------------------------"
+
 Write-Host "Please change the username and the IP of the server...:"
 Write-Host "`nDatei: $ziel"
 Write-Host "`nPress [Enter] to start the Connection..."
