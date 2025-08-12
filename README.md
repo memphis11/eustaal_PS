@@ -5,7 +5,7 @@ EUStaal Installer
 
 ### 🔹 Schritt 1: Skript herunterladen
 
-[Download Script] (https://github.com/memphis11/eustaal_PS)“ zum Herunterladen.
+[Script] (https://github.com/memphis11/eustaal_PS/blob/main/!!EUStaal_Create_RDP.ps1)“ 
 
 ---
 
