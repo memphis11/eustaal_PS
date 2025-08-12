@@ -1,9 +1,8 @@
 # eustaal_PS
-EUStaal Installer
 
 ---
 
-### 🔹 Skript herunterladen
+### 🔹 Skript
 
 to Script:
 
